@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md.Sabbir Hossain</h1>
 <h3 align="center">Mern Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisabbir&label=Profile%20views&color=0e75b6&style=flat" alt="nisabbir" /> </p>
-
 - 🌱 I’m currently learning **react,node js,express**
 
 - 💬 Ask me about **react,express**
